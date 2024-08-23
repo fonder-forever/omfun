@@ -20,3 +20,5 @@ Others:
         p.bold{font-weight: bold;}
         p.light{font-weight: lighter;}
 ```
+# Day4:
+<img scr="box.png">
