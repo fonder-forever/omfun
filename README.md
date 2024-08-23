@@ -21,4 +21,4 @@ Others:
         p.light{font-weight: lighter;}
 ```
 # Day4:
-<img scr="box.png">
+<img src="box.png">
