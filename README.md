@@ -28,3 +28,5 @@ This is box ilearn today.
 this [website](https://www.runoob.com/css/css-positioning.html) runoob is freidly to me.
 # Day6:
 Learned imge about flaot and something simple.Tomorrow i will have a text :C1.But i still spend time on this.I think the process is too slow.I will go to school ,i do not know if i will spend more time on the web.But i have nothing to do from my last term.In fact i am willing to learn <a href="https://www.runoob.com/css/css-navbar.html" target="_blank">this</a> tomorrow i will learn
+# Day7:
+Today I have a lot of thing to do like the exam for c1 and my homework accessing next term.
