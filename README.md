@@ -32,3 +32,5 @@ Learned imge about flaot and something simple.Tomorrow i will have a text :C1.Bu
 Today I have a lot of thing to do like the exam for c1 and my homework accessing next term.
 # Day8
 伪元素like`first-line before after active hover link visited`.Next i will learn guidline.
+# Day9
+rest today
