@@ -36,3 +36,5 @@ Today I have a lot of thing to do like the exam for c1 and my homework accessing
 rest today
 # Day10
 Guade is to difficult i think .I can not remeber things i learned before so i have to get my answer from ChatGpt for it is spending time to search from runoob.`display`and `position` is important from i type code.
+# Day11
+tired
