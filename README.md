@@ -38,3 +38,5 @@ rest today
 Guade is to difficult i think .I can not remeber things i learned before so i have to get my answer from ChatGpt for it is spending time to search from runoob.`display`and `position` is important from i type code.
 # Day11
 tired
+# Day12
+From today i will update my process.Since i spend these days propare my term.
